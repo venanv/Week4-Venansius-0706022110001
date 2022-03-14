@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace WindowsFormsApp3
 {
     public partial class Form2 : Form
-    {
+    { 
         string[,] array;
         int count = 0;
         public Form2(string[,] data)
